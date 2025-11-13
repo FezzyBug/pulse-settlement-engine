@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: pulse-settlement-engine
+server:
+  port: 8083
+logging:
+  level:
+    root: INFO
+    io.hookline.pulse: INFO
