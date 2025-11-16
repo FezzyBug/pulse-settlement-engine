@@ -1,0 +1,14 @@
+# macOS Finder metadata
+# Ignore .DS_Store files created by Finder in any directory
+.DS_Store
+**/.DS_Store
+*/.DS_Store
+
+# Optional: ignore other macOS metadata
+.AppleDouble
+.LSOverride
+
+# Ignore build / IDE directories (commonly useful)
+/target/
+
+# End of .gitignore
